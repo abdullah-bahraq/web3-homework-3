@@ -1,0 +1,31 @@
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\bin\Debug\net7.0\appsettings.Development.json
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\bin\Debug\net7.0\appsettings.json
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\bin\Debug\net7.0\Convert To MVC.staticwebassets.runtime.json
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\bin\Debug\net7.0\Convert To MVC.exe
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\bin\Debug\net7.0\Convert To MVC.deps.json
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\bin\Debug\net7.0\Convert To MVC.runtimeconfig.json
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\bin\Debug\net7.0\Convert To MVC.dll
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\bin\Debug\net7.0\Convert To MVC.pdb
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\Convert To MVC.csproj.AssemblyReference.cache
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\Convert To MVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\Convert To MVC.AssemblyInfoInputs.cache
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\Convert To MVC.AssemblyInfo.cs
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\Convert To MVC.csproj.CoreCompileInputs.cache
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\Convert To MVC.MvcApplicationPartsAssemblyInfo.cache
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\Convert To MVC.RazorAssemblyInfo.cache
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\Convert To MVC.RazorAssemblyInfo.cs
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\staticwebassets\msbuild.Convert To MVC.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.Convert To MVC.props
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Convert To MVC.props
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Convert To MVC.props
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\staticwebassets.build.json
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\staticwebassets.development.json
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\scopedcss\bundle\Convert To MVC.styles.css
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\scopedcss\projectbundle\Convert To MVC.bundle.scp.css
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\Convert To MVC.dll
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\refint\Convert To MVC.dll
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\Convert To MVC.pdb
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\Convert To MVC.genruntimeconfig.cache
+E:\Abdullah Bahraq\Studying\Universtiy\Term 6\Web Develpemnet\Lab\Classwork\Convert To MVC\obj\Debug\net7.0\ref\Convert To MVC.dll

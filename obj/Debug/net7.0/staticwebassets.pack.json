@@ -1,0 +1,609 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Convert To MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Convert To MVC.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\css\\components\\_site-blocks.css",
+      "PackagePath": "staticwebassets\\css\\components\\_site-blocks.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\css\\flatpickr.min.css",
+      "PackagePath": "staticwebassets\\css\\flatpickr.min.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\css\\index.html",
+      "PackagePath": "staticwebassets\\css\\index.html"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\css\\tiny-slider.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\flaticon\\font\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.woff2"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\fonts\\index.html",
+      "PackagePath": "staticwebassets\\fonts\\index.html"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\about_1.jpg",
+      "PackagePath": "staticwebassets\\images\\about_1.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\about_2.jpg",
+      "PackagePath": "staticwebassets\\images\\about_2.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\about_3.jpg",
+      "PackagePath": "staticwebassets\\images\\about_3.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\about_4.jpg",
+      "PackagePath": "staticwebassets\\images\\about_4.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\gal_1.jpg",
+      "PackagePath": "staticwebassets\\images\\gal_1.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\gal_2.jpg",
+      "PackagePath": "staticwebassets\\images\\gal_2.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\gal_3.jpg",
+      "PackagePath": "staticwebassets\\images\\gal_3.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\gal_4.jpg",
+      "PackagePath": "staticwebassets\\images\\gal_4.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\gal_5.jpg",
+      "PackagePath": "staticwebassets\\images\\gal_5.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\gal_6.jpg",
+      "PackagePath": "staticwebassets\\images\\gal_6.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\images\\hero_1.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\hero_2.jpg",
+      "PackagePath": "staticwebassets\\images\\hero_2.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\hero_3.jpg",
+      "PackagePath": "staticwebassets\\images\\hero_3.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\img-1.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\img-2.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\img-3.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\img-4.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\img-5.jpg",
+      "PackagePath": "staticwebassets\\images\\img-5.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\img-6.jpg",
+      "PackagePath": "staticwebassets\\images\\img-6.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\img-7.jpg",
+      "PackagePath": "staticwebassets\\images\\img-7.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\img_1.jpg",
+      "PackagePath": "staticwebassets\\images\\img_1.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\img_2.jpg",
+      "PackagePath": "staticwebassets\\images\\img_2.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\img_3.jpg",
+      "PackagePath": "staticwebassets\\images\\img_3.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\img_4.jpg",
+      "PackagePath": "staticwebassets\\images\\img_4.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\img_v_1.jpg",
+      "PackagePath": "staticwebassets\\images\\img_v_1.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\img_v_2.jpg",
+      "PackagePath": "staticwebassets\\images\\img_v_2.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\index.html",
+      "PackagePath": "staticwebassets\\images\\index.html"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_1.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\person_sq_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_sq_1.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\person_sq_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_sq_2.jpg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\svg\\01.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\01.svg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\svg\\02.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\02.svg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\svg\\03.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\03.svg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\svg\\04.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\04.svg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\svg\\05.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\05.svg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\svg\\06.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\06.svg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\svg\\07.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\07.svg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\svg\\08.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\08.svg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\svg\\09.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\09.svg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\svg\\10.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\10.svg"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\images\\world-dotted-map.png",
+      "PackagePath": "staticwebassets\\images\\world-dotted-map.png"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\js\\counter.js",
+      "PackagePath": "staticwebassets\\js\\counter.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\js\\flatpickr.js",
+      "PackagePath": "staticwebassets\\js\\flatpickr.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\js\\index.html",
+      "PackagePath": "staticwebassets\\js\\index.html"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\js\\navbar.js",
+      "PackagePath": "staticwebassets\\js\\navbar.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\js\\rellax.js",
+      "PackagePath": "staticwebassets\\js\\rellax.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Abdullah Bahraq\\Studying\\Universtiy\\Term 6\\Web Develpemnet\\Lab\\Classwork\\Convert To MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Convert To MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Convert To MVC.props",
+      "PackagePath": "build\\Convert To MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Convert To MVC.props",
+      "PackagePath": "buildMultiTargeting\\Convert To MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Convert To MVC.props",
+      "PackagePath": "buildTransitive\\Convert To MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
